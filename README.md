@@ -1,2 +1,3 @@
 # D2C-farmer-api
-Developing an api for Farmers
+Developing an api for Farmers and Dealers.
+
